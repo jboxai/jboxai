@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jboxai/jboxai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://jboxai.com">
+  <img src="https://jboxai.com/images/og/home.png" alt="Jbox" width="800" />
+</a>
 
-Here are some ideas to get you started:
+### Describe it. Jbox builds it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Plain-language brief in. Working, hosted Next.js product out.
+
+[jboxai.com](https://jboxai.com) &nbsp;·&nbsp; [Discord](https://discord.gg/G2WprasNrq) &nbsp;·&nbsp; [X](https://x.com/JBOXAI) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/company/jboxai/)
+
+
+</div>
