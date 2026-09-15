@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img">
+<rect width="1200" height="700" fill="#fcfaf1"/>
+<text x="60" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >SIMPLE PRICING</text>
+<text x="60" y="122" font-family="Georgia, 'Times New Roman', Times, serif" font-size="42" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="-0.5" >Your first build is on us.</text>
+<text x="820" y="100" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >50 credits are included. Add 100 more for</text>
+<text x="820" y="123" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >$20 whenever you need them.</text>
+<rect x="60" y="180" width="530" height="470" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<rect x="84" y="206" width="6" height="6" fill="#7fdddd"/>
+<text x="100" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >SELF-SERVE</text>
+<text x="100" y="240" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Jbox Pro</text>
+<text x="566" y="228" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5a544e" font-weight="400" text-anchor="end" letter-spacing="0" >For individuals and small teams</text>
+<line x1="61" y1="264" x2="589" y2="264" stroke="#e2ddd5"/>
+<text x="90" y="340" font-family="Georgia, 'Times New Roman', Times, serif" font-size="64" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >$0</text>
+<text x="172" y="332" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >to start</text>
+<text x="90" y="372" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >50 credits included</text>
+<rect x="310" y="288" width="256" height="106" fill="#d1f7f7" stroke="none" stroke-width="1" />
+<text x="330" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >WHEN YOU NEED MORE</text>
+<text x="330" y="350" font-family="Georgia, 'Times New Roman', Times, serif" font-size="19" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >$20 / 100 additional</text>
+<text x="330" y="376" font-family="Georgia, 'Times New Roman', Times, serif" font-size="19" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >credits</text>
+<line x1="61" y1="418" x2="589" y2="418" stroke="#e2ddd5"/>
+<rect x="84" y="442" width="482" height="96" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<line x1="325" y1="442" x2="325" y2="538" stroke="#e2ddd5"/>
+<line x1="84" y1="490" x2="566" y2="490" stroke="#e2ddd5"/>
+<rect x="102" y="459" width="14" height="14" fill="#d1f7f7"/><path d="M105.5 466.5 L108 469 L112.5 463.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="126" y="471" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >No subscription</text>
+<rect x="343" y="459" width="14" height="14" fill="#d1f7f7"/><path d="M346.5 466.5 L349 469 L353.5 463.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="367" y="471" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >No credit card to start</text>
+<rect x="102" y="507" width="14" height="14" fill="#d1f7f7"/><path d="M105.5 514.5 L108 517 L112.5 511.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="126" y="519" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Unlimited flow generation</text>
+<rect x="343" y="507" width="14" height="14" fill="#d1f7f7"/><path d="M346.5 514.5 L349 517 L353.5 511.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="367" y="519" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Export to production code</text>
+<rect x="84" y="574" width="482" height="48" fill="#110c09" stroke="#110c09" stroke-width="1" /><text x="325.0" y="603.0" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#fcfaf1" font-weight="500" text-anchor="middle" letter-spacing="0" >Get started free  ↗</text>
+<rect x="610" y="180" width="530" height="470" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="634" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >FOR TEAMS</text>
+<text x="634" y="240" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Enterprise</text>
+<text x="634" y="258" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >For growing teams</text>
+<line x1="611" y1="264" x2="1139" y2="264" stroke="#e2ddd5"/>
+<text x="634" y="340" font-family="Georgia, 'Times New Roman', Times, serif" font-size="56" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Custom</text>
+<text x="634" y="374" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Credits, controls, and support sized around your organization.</text>
+<line x1="611" y1="418" x2="1139" y2="418" stroke="#e2ddd5"/>
+<rect x="634" y="442" width="14" height="14" fill="#d1f7f7"/><path d="M637.5 449.5 L640 452 L644.5 446.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="658" y="454" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Custom credit allocation</text>
+<rect x="634" y="468" width="14" height="14" fill="#d1f7f7"/><path d="M637.5 475.5 L640 478 L644.5 472.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="658" y="480" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Team controls and SSO</text>
+<rect x="634" y="494" width="14" height="14" fill="#d1f7f7"/><path d="M637.5 501.5 L640 504 L644.5 498.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="658" y="506" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >White-glove onboarding</text>
+<rect x="634" y="520" width="14" height="14" fill="#d1f7f7"/><path d="M637.5 527.5 L640 530 L644.5 524.5" stroke="#3aa66b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="658" y="532" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Dedicated account support</text>
+<rect x="634" y="574" width="482" height="48" fill="#ffffff" stroke="#110c09" stroke-width="1" /><text x="875.0" y="603.0" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="500" text-anchor="middle" letter-spacing="0" >Talk to our team  ↗</text>
+<text x="875.0" y="638" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="middle" letter-spacing="0" >Reply within 24 hours</text>
+</svg>

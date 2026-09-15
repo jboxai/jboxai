@@ -1,212 +1,111 @@
-<div align="center">
 
-<a href="https://jboxai.com">
-  <img src="https://jboxai.com/images/og/home.png" alt="Jbox" width="800" />
-</a>
 
-<br />
-<br />
+Ran 4 commands, read 2 files
+Sent
+Updated bundle with video block. Preview PNG shows the thumbnail as it renders.
 
-# Describe it. Jbox builds it.
 
-**Plain-language brief in. Working, hosted Next.js product out.**
+zip
+jboxai-readme.zip
 
-Jbox turns a product brief into a working web app with connected screens, roles, data, authentication, and hosting.
+1MB
 
-<br />
 
-<a href="https://jboxai.com"><img src="https://img.shields.io/badge/Get_started_free-50_credits_·_no_card-000000?style=for-the-badge" alt="Get started free" /></a>
+Video added, right under the hero.
 
-<br />
+How it works: GitHub README cannot embed an external .mp4 (no <video> tag, no autoplay). So video.svg = your thumbnail (embedded, resized to 1200px) + play button + "JBOX DEMO · MP4" tag, wrapped in a link to jbox-prompt-to-product.mp4. Click → video opens in browser.
 
-[Website](https://jboxai.com) &nbsp;·&nbsp; [Discord](https://discord.gg/G2WprasNrq) &nbsp;·&nbsp; [X](https://x.com/JBOXAI) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/company/jboxai/)
+If you want inline playback on GitHub, one option exists: drag the mp4 into any GitHub issue/PR comment box, GitHub uploads it to github.com/user-attachments/assets/..., paste that URL bare on its own line in the README. GitHub renders it as an inline player. I can't do that step (needs your GitHub session). Say if you want the placeholder line for it.
 
-<br />
+Same install as before:
 
-⭐ **[4.6 / 5 on G2](https://www.g2.com/products/jbox/reviews)**
+unzip -o jboxai-readme.zip -d /path/to/jboxai
+imae not loading i believe
 
-▶ **[Watch the demo: prompt to product](https://jboxai.com/assets/jbox-prompt-to-product.mp4)**
+Checked whether README and asset files exist on GitHub main
+Found it: the .github/readme/ assets folder never got pushed to the repo, so those SVGs 404 on main while the README still references the old external image URLs. I'll commit the assets folder alongside README.md to fix this.
 
-</div>
+Checked git remote type and GitHub SSH auth
+Push README + assets to github.com/jboxai/jboxai now?
 
-<br />
+give me md i will do manually
 
-## From brief to working product
+Zip the assets folder separately
+Sent
+README.md + readme-assets.zip (unzips to a readme/ folder that must live at .github/readme/ in the repo).
 
-> *"A clinic platform for patient care: admin, clinician and patient roles, appointment booking and billing dashboard."*
 
-That is all Jbox needs.
+md
+README.md
 
-- **Plain-language brief in, working product out**
-- **Every screen, role and decision mapped first**
-- **Build without context loss or tech debt**
-- **Hosted and live, not a prototype**
+6.4kB
 
-<br />
 
-## How it works
+zip
+readme-assets.zip
 
-Catch what is missing before it becomes rework. See every role, screen, decision and handoff together, and review the full product before development starts.
+1MB
 
-| | Step | What happens |
-|---|---|---|
-| **01** | **Describe the product** | Type what you want to build in plain language, or paste in a brief. |
-| **02** | **Review every path** | Check screens, roles and decisions together before the build starts. |
-| **03** | **Ship the product** | Open the connected product, test it and publish. |
+Manual steps on GitHub:
 
-<div align="center">
-  <img src="https://jboxai.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fflow-map.71a730dd.png&w=1920&q=75" alt="Jbox flow map connecting a product brief to roles, screens, and product paths" width="800" />
-</div>
+Unzip readme-assets.zip locally → you get a readme/ folder.
+Repo jboxai/jboxai → Add file → Upload files.
+In the path box at top, type .github/readme/ (GitHub creates the folders).
+Drag all 17 files from readme/ in. Commit to main.
+Then open README.md in the editor, replace contents with the new README.md. Commit.
+Verify after: https://github.com/jboxai/jboxai/blob/main/.github/readme/hero.svg must return the image. Once that URL works, README renders.
 
-<br />
+Order matters only for a few seconds. If images still blank after both commits, hard-refresh (GitHub caches image proxy).
 
-## The working build uses
+in which folder need to update there?
 
-<div align="center">
+Repo root of jboxai/jboxai. Final layout:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jbox Hosting](https://img.shields.io/badge/Jbox_Hosting-000000?style=for-the-badge)
+jboxai/                      ← repo root
+├── README.md                ← replace with new file
+└── .github/
+    └── readme/              ← upload all 17 files here
+        ├── hero.svg
+        ├── video.svg
+        ├── how-it-works.svg
+        ├── flow-map.png
+        ├── stack.svg
+        ├── builds.svg
+        ├── testimonials.svg
+        ├── pricing.svg
+        ├── faq-header.svg
+        ├── team-header.svg
+        ├── jacques-louw.png
+        ├── saurav-chanda.png
+        ├── pawan-pyakurel.png
+        ├── cta.svg
+        ├── thumb-1200.png
+        └── gen.py
+Exact path: .github/readme/ (dot prefix, lowercase). README references .github/readme/hero.svg etc, so any other folder name breaks images.
 
-</div>
+Fastest via web UI: go to https://github.com/jboxai/jboxai/upload/main, in the filename box type .github/readme/ before dragging files. GitHub creates both folders.
 
-<br />
+i need to create .github folder there ?
 
-## Selected builds
+Yes, if it doesn't exist. GitHub has no "new folder" button; folders come from file paths.
 
-We built Jbox with Jbox. Here are some other shipped products.
+Two ways:
 
-| Product | Category |
-|---|---|
-| **[DermaLens](https://dermalens.io/)** | Instant AI skin check |
-| **[Redmond Harvey](https://www.redmondharveyclothing.com/)** | Editorial commerce |
-| **[Anantrix](https://www.anantrix.in/)** | Vedic astrology |
-| **[EOR](https://fronted.com/employer-of-record)** | Employer of record |
-| **[Project Resist](https://www.projectresist.org.uk/)** | Rights & campaigns |
-| **[GRE Capital](https://www.grecapital.com/)** | UK real estate lending |
+Web UI (upload page):
 
-<br />
+Open https://github.com/jboxai/jboxai/upload/main
+Drag all 17 files in.
+Before committing, you can't set folder on the upload page. So instead use step below.
+Web UI (create file, sets path):
 
-## What builders say
+Open https://github.com/jboxai/jboxai/new/main
+In the filename box type .github/readme/gen.py — each / you type turns into a folder.
+Paste gen.py contents, commit. Folder now exists.
+Go to https://github.com/jboxai/jboxai/upload/main/.github/readme and drag the remaining 16 files. Commit.
+Replace README.md.
+Or skip all of that: I push it for you in one commit. SSH auth already works on this machine. Say "push" and it's done.
 
-> **"It finally builds the system, not just screens. Seeing the whole product as a connected map changed how we ship. We stopped guessing about edge cases."**
->
-> — [Angel Bacareza](https://www.linkedin.com/in/angel-b-412126176/), Product Manager at Fronted · Global
 
-> **"We could talk through the product with the whole team before anyone opened a code editor. The missing paths became obvious much earlier."**
->
-> — [Tiaan Alberts](https://www.linkedin.com/in/tiaan-alberts-7277076b), Chartered Quantity Surveyor at Turner & Townsend alinea · United Kingdom
 
-> **"Jbox turns app ideas into a fast MVP prototype on the first try."**
->
-> — [Asbjørn Rørvik](https://www.linkedin.com/in/asbjornrorvik), Full Stack Developer · CTO / Co-Founder at Supportify · Norway
-
-<br />
-
-## Simple pricing
-
-**Your first build is on us.** 50 credits are included. Add 100 more for $20 whenever you need them.
-
-<table>
-  <tr>
-    <th align="left" width="50%">Jbox Pro <sub>· self-serve</sub></th>
-    <th align="left" width="50%">Enterprise <sub>· for teams</sub></th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>$0 to start</b> · 50 credits included<br />
-      <b>$20 / 100 additional credits</b> when you need more
-      <br /><br />
-      ✔ No subscription<br />
-      ✔ No credit card to start<br />
-      ✔ Unlimited flow generation<br />
-      ✔ Export to production code
-      <br /><br />
-      <a href="https://jboxai.com"><b>Get started free →</b></a>
-    </td>
-    <td valign="top">
-      <b>Custom</b> · credits, controls, and support sized around your organization
-      <br /><br />
-      ✔ Custom credit allocation<br />
-      ✔ Team controls and SSO<br />
-      ✔ White-glove onboarding<br />
-      ✔ Dedicated account support
-      <br /><br />
-      <a href="mailto:contact@jboxai.com"><b>Talk to our team →</b></a> <sub>Reply within 24 hours</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Need to know
-
-<details>
-<summary><b>What does Jbox generate?</b></summary>
-<br />
-Complete, multi-role product flows with screens, logic, and edge cases. They are wired to production-ready code you can export.
-</details>
-
-<details>
-<summary><b>Is Jbox an AI to code tool?</b></summary>
-<br />
-Jbox goes further than code generation. It maps every role, screen, decision and handoff first, then builds a connected, hosted product from that map, so nothing gets lost between the brief and the build.
-</details>
-
-<details>
-<summary><b>Can I use Jbox for prompt to code workflows?</b></summary>
-<br />
-Yes. You can describe a product in plain language and use Jbox as a prompt to code workflow that maps roles, screens, logic, and edge cases before export.
-</details>
-
-<details>
-<summary><b>How does hosting work?</b></summary>
-<br />
-Every build ships on Jbox Hosting, live and connected, not a prototype. You can also export to production code and connect your own GitHub repository.
-</details>
-
-<br />
-
-## The people behind Jbox
-
-A small team building the product we wanted to use ourselves.
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://jboxai.com/team/jacques-louw.png" alt="Jacques Louw" width="120" /><br />
-      <b><a href="https://linkedin.com/in/jacques-louw-32590aa2">Jacques Louw</a></b><br />
-      <sub>Co-founder</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://jboxai.com/team/saurav-chanda.png" alt="Saurav Chanda" width="120" /><br />
-      <b><a href="https://linkedin.com/in/saurav-chanda">Saurav Chanda</a></b><br />
-      <sub>Co-founder</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://jboxai.com/team/pawan-pyakurel.png" alt="Pawan Pyakurel" width="120" /><br />
-      <b><a href="https://www.linkedin.com/in/pawanpyakurel/">Pawan Pyakurel</a></b><br />
-      <sub>Full Stack Engineer</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-
-## Ready to build a complete product in one tool?
-
-Join the builders who ship faster with total clarity.
-
-<a href="https://jboxai.com"><b>Get started free</b></a> &nbsp;·&nbsp; <a href="https://discord.gg/G2WprasNrq"><b>Join the builders on Discord</b></a>
-
-<br />
-<br />
-
-<sub>© 2026 Jbox. All rights reserved. &nbsp;·&nbsp; <a href="https://jboxai.com/terms/">Terms of Service</a> &nbsp;·&nbsp; <a href="https://jboxai.com/privacy-policy/">Privacy Policy</a> &nbsp;·&nbsp; <a href="mailto:contact@jboxai.com">contact@jboxai.com</a></sub>
-
-<sub><i>Your product flow orchestrator</i></sub>
-
-</div>
+<!-- Assets live in .github/readme/ — regenerate SVGs with .github/readme/gen.py --> <a href="https://jboxai.com"> <img src=".github/readme/hero.svg" alt="Describe it. Jbox builds it. Plain-language brief in, working product out. Every screen, role and decision mapped first. Build without context loss or tech debt. Hosted and live, not a prototype." width="100%" /> </a> <p align="center"> <a href="https://jboxai.com"><b>Get started free</b></a> &nbsp;·&nbsp; <a href="https://discord.gg/G2WprasNrq">Discord</a> &nbsp;·&nbsp; <a href="https://x.com/JBOXAI">X</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/company/jboxai/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.g2.com/products/jbox/reviews">4.6 / 5 on G2</a> </p> <br /> <a href="https://jboxai.com/assets/jbox-prompt-to-product.mp4"> <img src=".github/readme/video.svg" alt="Watch the Jbox demo: prompt to product" width="100%" /> </a> <p align="center"><sub>▶ Click to watch the demo (MP4, ~19 MB)</sub></p> <br /> <img src=".github/readme/how-it-works.svg" alt="How it works. 01 Describe the product: type what you want to build in plain language, or paste in a brief. 02 Review every path: check screens, roles and decisions together before the build starts. 03 Ship the product: open the connected product, test it and publish." width="100%" /> <img src=".github/readme/flow-map.png" alt="Jbox flow map connecting a product brief to roles, screens, and product paths" width="100%" /> <img src=".github/readme/stack.svg" alt="The working build uses Next.js, Supabase, GitHub and Jbox Hosting." width="100%" /> <br /> <img src=".github/readme/builds.svg" alt="Selected builds. We built Jbox with Jbox. DermaLens, Redmond Harvey, Anantrix, EOR, Project Resist, GRE Capital." width="100%" /> <p align="center"> <a href="https://dermalens.io/">DermaLens</a> &nbsp;·&nbsp; <a href="https://www.redmondharveyclothing.com/">Redmond Harvey</a> &nbsp;·&nbsp; <a href="https://www.anantrix.in/">Anantrix</a> &nbsp;·&nbsp; <a href="https://fronted.com/employer-of-record">EOR</a> &nbsp;·&nbsp; <a href="https://www.projectresist.org.uk/">Project Resist</a> &nbsp;·&nbsp; <a href="https://www.grecapital.com/">GRE Capital</a> </p> <br /> <a href="https://www.g2.com/products/jbox/reviews"> <img src=".github/readme/testimonials.svg" alt="What builders say. Angel Bacareza: It finally builds the system, not just screens. Tiaan Alberts: We could talk through the product with the whole team before anyone opened a code editor. Asbjørn Rørvik: Jbox turns app ideas into a fast MVP prototype on the first try. Rated 4.6 out of 5 on G2." width="100%" /> </a> <p align="center"> <a href="https://www.linkedin.com/in/angel-b-412126176/">Angel Bacareza</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/tiaan-alberts-7277076b">Tiaan Alberts</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/asbjornrorvik">Asbjørn Rørvik</a> </p> <br /> <a href="https://jboxai.com"> <img src=".github/readme/pricing.svg" alt="Simple pricing. Your first build is on us. Jbox Pro: $0 to start, 50 credits included, $20 per 100 additional credits, no subscription, no credit card to start, unlimited flow generation, export to production code. Enterprise: custom credit allocation, team controls and SSO, white-glove onboarding, dedicated account support." width="100%" /> </a> <p align="center"> <a href="https://jboxai.com"><b>Get started free →</b></a> &nbsp;&nbsp;&nbsp; <a href="mailto:contact@jboxai.com"><b>Talk to our team →</b></a> <sub>Reply within 24 hours</sub> </p> <br /> <img src=".github/readme/faq-header.svg" alt="Need to know. Questions, answered." width="100%" /> <details> <summary><b>What does Jbox generate?</b></summary> <br /> Complete, multi-role product flows with screens, logic, and edge cases. They are wired to production-ready code you can export. </details> <details> <summary><b>Is Jbox an AI to code tool?</b></summary> <br /> Jbox goes further than code generation. It maps every role, screen, decision and handoff first, then builds a connected, hosted product from that map, so nothing gets lost between the brief and the build. </details> <details> <summary><b>Can I use Jbox for prompt to code workflows?</b></summary> <br /> Yes. You can describe a product in plain language and use Jbox as a prompt to code workflow that maps roles, screens, logic, and edge cases before export. </details> <details> <summary><b>How does hosting work?</b></summary> <br /> Every build ships on Jbox Hosting, live and connected, not a prototype. You can also export to production code and connect your own GitHub repository. </details> <br /> <img src=".github/readme/team-header.svg" alt="The people behind Jbox. The team behind the product." width="100%" /> <table> <tr> <td align="center" width="33%"> <img src=".github/readme/jacques-louw.png" alt="Jacques Louw" width="140" /><br /><br /> <b><a href="https://linkedin.com/in/jacques-louw-32590aa2">Jacques Louw</a></b><br /> <sub>CO-FOUNDER</sub> </td> <td align="center" width="33%"> <img src=".github/readme/saurav-chanda.png" alt="Saurav Chanda" width="140" /><br /><br /> <b><a href="https://linkedin.com/in/saurav-chanda">Saurav Chanda</a></b><br /> <sub>CO-FOUNDER</sub> </td> <td align="center" width="33%"> <img src=".github/readme/pawan-pyakurel.png" alt="Pawan Pyakurel" width="140" /><br /><br /> <b><a href="https://www.linkedin.com/in/pawanpyakurel/">Pawan Pyakurel</a></b><br /> <sub>FULL STACK ENGINEER</sub> </td> </tr> </table> <br /> <a href="https://jboxai.com"> <img src=".github/readme/cta.svg" alt="Ready to build a complete product in one tool? Join the builders who ship faster with total clarity." width="100%" /> </a> <p align="center"> <a href="https://jboxai.com"><b>Get started free →</b></a> &nbsp;&nbsp;&nbsp; <a href="https://discord.gg/G2WprasNrq"><b>Join the builders on Discord →</b></a> </p> <p align="center"> <sub>© 2026 Jbox. All rights reserved. &nbsp;·&nbsp; <a href="https://jboxai.com/terms/">Terms of Service</a> &nbsp;·&nbsp; <a href="https://jboxai.com/privacy-policy/">Privacy Policy</a> &nbsp;·&nbsp; <a href="mailto:contact@jboxai.com">contact@jboxai.com</a></sub><br /> <sub><i>Your product flow orchestrator</i></sub> </p>
+jboxai.com

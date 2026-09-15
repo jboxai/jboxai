@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img">
+<rect width="1200" height="400" fill="#fcfaf1"/>
+<rect width="1200" height="400" fill="#110c09"/>
+<pattern id="g2" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#fcfaf1" stroke-opacity="0.06" stroke-width="0.6"/></pattern>
+<rect width="1200" height="400" fill="url(#g2)"/>
+<text x="60" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7fdddd" font-weight="500" text-anchor="start" letter-spacing="2.4" >READY TO BUILD</text>
+<text x="58" y="150" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#fcfaf1" font-weight="400" text-anchor="start" letter-spacing="-1" >Ready to build</text>
+<text x="58" y="208" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#fcfaf1" font-weight="400" text-anchor="start" letter-spacing="-1" >a complete product</text>
+<text x="58" y="266" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#fcfaf1" font-weight="400" text-anchor="start" letter-spacing="-1" >in one tool?</text>
+<text x="720" y="132" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#fcfaf1" font-weight="400" text-anchor="start" letter-spacing="0" >Join the builders who ship</text>
+<text x="720" y="160" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#fcfaf1" font-weight="400" text-anchor="start" letter-spacing="0" >faster with total clarity.</text>
+<text x="720" y="200" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#b8b2ab" font-weight="400" text-anchor="start" letter-spacing="0" >Jbox turns a product brief into a working web app with</text>
+<text x="720" y="222" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#b8b2ab" font-weight="400" text-anchor="start" letter-spacing="0" >connected screens, roles, data, authentication, and</text>
+<text x="720" y="244" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#b8b2ab" font-weight="400" text-anchor="start" letter-spacing="0" >hosting.</text>
+<rect x="720" y="286" width="190" height="48" fill="#fcfaf1" stroke="#fcfaf1" stroke-width="1" />
+<text x="815" y="315" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="500" text-anchor="middle" letter-spacing="0" >Get started free  ↗</text>
+<rect x="926" y="286" width="214" height="48" fill="none" stroke="#b8b2ab" stroke-width="1" />
+<text x="1033" y="315" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#fcfaf1" font-weight="500" text-anchor="middle" letter-spacing="0" >Join us on Discord</text>
+<text x="60" y="360" font-family="Georgia, 'Times New Roman', Times, serif" font-size="22" fill="#fcfaf1" font-weight="400" text-anchor="start" letter-spacing="0" font-style="italic">jbox</text>
+<circle cx="108" cy="357" r="3" fill="#7fdddd"/>
+<text x="1140" y="360" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#b8b2ab" font-weight="500" text-anchor="end" letter-spacing="1" >jboxai.com</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img">
+<rect width="1200" height="170" fill="#fcfaf1"/>
+<text x="60" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >THE WORKING BUILD USES</text>
+<rect x="60" y="84" width="113" height="48" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<rect x="76" y="105" width="6" height="6" fill="#7fdddd"/>
+<text x="92" y="113" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Next.js</text>
+<rect x="187" y="84" width="124" height="48" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<rect x="203" y="105" width="6" height="6" fill="#7fdddd"/>
+<text x="219" y="113" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Supabase</text>
+<rect x="325" y="84" width="103" height="48" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<rect x="341" y="105" width="6" height="6" fill="#7fdddd"/>
+<text x="357" y="113" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >GitHub</text>
+<rect x="442" y="84" width="166" height="48" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<rect x="458" y="105" width="6" height="6" fill="#7fdddd"/>
+<text x="474" y="113" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Jbox Hosting</text>
+</svg>
