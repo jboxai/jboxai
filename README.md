@@ -23,7 +23,9 @@ Jbox turns a product brief into a working web app with connected screens, roles,
 
 <br />
 
-⭐ **4.6 / 5 on G2**
+⭐ **[4.6 / 5 on G2](https://www.g2.com/products/jbox/reviews)**
+
+▶ **[Watch the demo: prompt to product](https://jboxai.com/assets/jbox-prompt-to-product.mp4)**
 
 </div>
 
@@ -52,6 +54,10 @@ Catch what is missing before it becomes rework. See every role, screen, decision
 | **02** | **Review every path** | Check screens, roles and decisions together before the build starts. |
 | **03** | **Ship the product** | Open the connected product, test it and publish. |
 
+<div align="center">
+  <img src="https://jboxai.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fflow-map.71a730dd.png&w=1920&q=75" alt="Jbox flow map connecting a product brief to roles, screens, and product paths" width="800" />
+</div>
+
 <br />
 
 ## The working build uses
@@ -73,12 +79,12 @@ We built Jbox with Jbox. Here are some other shipped products.
 
 | Product | Category |
 |---|---|
-| **DermaLens** | Instant AI skin check |
-| **Redmond Harvey** | Editorial commerce |
-| **Anantrix** | Vedic astrology |
-| **EOR** | Employer of record |
-| **Project Resist** | Rights & campaigns |
-| **GRE Capital** | UK real estate lending |
+| **[DermaLens](https://dermalens.io/)** | Instant AI skin check |
+| **[Redmond Harvey](https://www.redmondharveyclothing.com/)** | Editorial commerce |
+| **[Anantrix](https://www.anantrix.in/)** | Vedic astrology |
+| **[EOR](https://fronted.com/employer-of-record)** | Employer of record |
+| **[Project Resist](https://www.projectresist.org.uk/)** | Rights & campaigns |
+| **[GRE Capital](https://www.grecapital.com/)** | UK real estate lending |
 
 <br />
 
@@ -86,15 +92,15 @@ We built Jbox with Jbox. Here are some other shipped products.
 
 > **"It finally builds the system, not just screens. Seeing the whole product as a connected map changed how we ship. We stopped guessing about edge cases."**
 >
-> — Angel Bacareza, Product Manager at Fronted · Global
+> — [Angel Bacareza](https://www.linkedin.com/in/angel-b-412126176/), Product Manager at Fronted · Global
 
 > **"We could talk through the product with the whole team before anyone opened a code editor. The missing paths became obvious much earlier."**
 >
-> — Tiaan Alberts, Chartered Quantity Surveyor at Turner & Townsend alinea · United Kingdom
+> — [Tiaan Alberts](https://www.linkedin.com/in/tiaan-alberts-7277076b), Chartered Quantity Surveyor at Turner & Townsend alinea · United Kingdom
 
 > **"Jbox turns app ideas into a fast MVP prototype on the first try."**
 >
-> — Asbjørn Rørvik, Full Stack Developer · CTO / Co-Founder at Supportify · Norway
+> — [Asbjørn Rørvik](https://www.linkedin.com/in/asbjornrorvik), Full Stack Developer · CTO / Co-Founder at Supportify · Norway
 
 <br />
 
@@ -127,7 +133,7 @@ We built Jbox with Jbox. Here are some other shipped products.
       ✔ White-glove onboarding<br />
       ✔ Dedicated account support
       <br /><br />
-      <a href="https://jboxai.com"><b>Talk to our team →</b></a> <sub>Reply within 24 hours</sub>
+      <a href="mailto:contact@jboxai.com"><b>Talk to our team →</b></a> <sub>Reply within 24 hours</sub>
     </td>
   </tr>
 </table>
@@ -166,10 +172,25 @@ Every build ships on Jbox Hosting, live and connected, not a prototype. You can 
 
 A small team building the product we wanted to use ourselves.
 
-| | | |
-|:---:|:---:|:---:|
-| **Jacques Louw** | **Saurav Chanda** | **Pawan Pyakurel** |
-| Co-founder | Co-founder | Full Stack Engineer |
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://jboxai.com/team/jacques-louw.png" alt="Jacques Louw" width="120" /><br />
+      <b><a href="https://linkedin.com/in/jacques-louw-32590aa2">Jacques Louw</a></b><br />
+      <sub>Co-founder</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://jboxai.com/team/saurav-chanda.png" alt="Saurav Chanda" width="120" /><br />
+      <b><a href="https://linkedin.com/in/saurav-chanda">Saurav Chanda</a></b><br />
+      <sub>Co-founder</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://jboxai.com/team/pawan-pyakurel.png" alt="Pawan Pyakurel" width="120" /><br />
+      <b><a href="https://www.linkedin.com/in/pawanpyakurel/">Pawan Pyakurel</a></b><br />
+      <sub>Full Stack Engineer</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -184,7 +205,7 @@ Join the builders who ship faster with total clarity.
 <br />
 <br />
 
-<sub>© 2026 Jbox. All rights reserved. &nbsp;·&nbsp; <a href="https://jboxai.com/terms/">Terms of Service</a> &nbsp;·&nbsp; <a href="https://jboxai.com/privacy/">Privacy Policy</a></sub>
+<sub>© 2026 Jbox. All rights reserved. &nbsp;·&nbsp; <a href="https://jboxai.com/terms/">Terms of Service</a> &nbsp;·&nbsp; <a href="https://jboxai.com/privacy-policy/">Privacy Policy</a> &nbsp;·&nbsp; <a href="mailto:contact@jboxai.com">contact@jboxai.com</a></sub>
 
 <sub><i>Your product flow orchestrator</i></sub>
 
