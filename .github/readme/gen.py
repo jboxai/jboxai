@@ -323,4 +323,4 @@ def footer():
         xs -= int(len(n) * 6.8) + 28
     svg("footer.svg", 96, "\n".join(b))
 
-for fn in (hero, video, how, flowmap, stack, builds, testimonials, pricing, faq, team, cta, footer): fn()
+for fn in (hero, how, flowmap, stack, builds, testimonials, pricing, faq, team, cta, footer): fn()
