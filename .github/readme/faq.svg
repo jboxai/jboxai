@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="782" viewBox="0 0 1200 782" role="img">
+<rect width="1200" height="782" fill="#fcfaf1"/>
+<text x="60" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >NEED TO KNOW</text>
+<text x="60" y="132" font-family="Georgia, 'Times New Roman', Times, serif" font-size="42" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="-0.5" >Questions, answered.</text>
+<text x="60" y="168" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >What Jbox builds, how hosting works, and what you pay. No fine print.</text>
+<rect x="780" y="104" width="132" height="32" fill="#110c09" stroke="#110c09" stroke-width="1" />
+<text x="846.0" y="124" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#fcfaf1" font-weight="500" text-anchor="middle" letter-spacing="0" >Getting started</text>
+<rect x="920" y="104" width="81" height="32" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="960.5" y="124" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#110c09" font-weight="500" text-anchor="middle" letter-spacing="0" >Building</text>
+<rect x="1009" y="104" width="74" height="32" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="1046.0" y="124" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#110c09" font-weight="500" text-anchor="middle" letter-spacing="0" >Hosting</text>
+<rect x="1091" y="104" width="74" height="32" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="1128.0" y="124" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#110c09" font-weight="500" text-anchor="middle" letter-spacing="0" >Pricing</text>
+<line x1="60" y1="220" x2="1140" y2="220" stroke="#e2ddd5"/>
+<text x="60" y="260" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >What does Jbox generate?</text>
+<text x="1140" y="260" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#5a544e" font-weight="300" text-anchor="end" letter-spacing="0" >−</text>
+<text x="60" y="292" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Complete, multi-role product flows with screens, logic, and edge cases. They are wired to production-ready code you can export.</text>
+<line x1="60" y1="334" x2="1140" y2="334" stroke="#e2ddd5"/>
+<text x="60" y="374" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Is Jbox an AI to code tool?</text>
+<text x="1140" y="374" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#5a544e" font-weight="300" text-anchor="end" letter-spacing="0" >−</text>
+<text x="60" y="406" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Jbox goes further than code generation. It maps every role, screen, decision and handoff first, then builds a connected, hosted</text>
+<text x="60" y="428" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >product from that map, so nothing gets lost between the brief and the build.</text>
+<line x1="60" y1="470" x2="1140" y2="470" stroke="#e2ddd5"/>
+<text x="60" y="510" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Can I use Jbox for prompt to code workflows?</text>
+<text x="1140" y="510" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#5a544e" font-weight="300" text-anchor="end" letter-spacing="0" >−</text>
+<text x="60" y="542" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Yes. You can describe a product in plain language and use Jbox as a prompt to code workflow that maps roles, screens, logic, and edge</text>
+<text x="60" y="564" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >cases before export.</text>
+<line x1="60" y1="606" x2="1140" y2="606" stroke="#e2ddd5"/>
+<text x="60" y="646" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >How does hosting work?</text>
+<text x="1140" y="646" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#5a544e" font-weight="300" text-anchor="end" letter-spacing="0" >−</text>
+<text x="60" y="678" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Every build ships on Jbox Hosting, live and connected, not a prototype. You can also export to production code and connect your own</text>
+<text x="60" y="700" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >GitHub repository.</text>
+<line x1="60" y1="742" x2="1140" y2="742" stroke="#e2ddd5"/>
+</svg>

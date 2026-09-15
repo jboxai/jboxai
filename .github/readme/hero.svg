@@ -1,5 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img">
-<rect width="1200" height="620" fill="#fcfaf1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img">
+<rect width="1200" height="690" fill="#fcfaf1"/>
+<text x="60" y="46" font-family="Georgia, 'Times New Roman', Times, serif" font-size="26" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" font-style="italic">jbox</text>
+<circle cx="116" cy="42" r="3.5" fill="#7fdddd"/>
+<text x="470" y="44" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Product</text>
+<text x="566" y="44" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Projects</text>
+<text x="662" y="44" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Testimonials</text>
+<text x="758" y="44" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Pricing</text>
+<text x="985" y="44" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="500" text-anchor="start" letter-spacing="0" >Log in</text>
+<rect x="1040" y="22" width="100" height="36" fill="#110c09" stroke="#110c09" stroke-width="1" />
+<text x="1090" y="45" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#fcfaf1" font-weight="500" text-anchor="middle" letter-spacing="0" >Get started free</text>
+<line x1="0" y1="70" x2="1200" y2="70" stroke="#e2ddd5"/>
+<g transform="translate(0 70)">
 <text x="60" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >FROM BRIEF TO WORKING PRODUCT</text>
 <text x="58" y="168" font-family="Georgia, 'Times New Roman', Times, serif" font-size="76" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="-2" >Describe</text>
 <text x="58" y="242" font-family="Georgia, 'Times New Roman', Times, serif" font-size="76" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="-2" >it. Jbox</text>
@@ -54,4 +65,5 @@
 <line x1="621" y1="478" x2="1139" y2="478" stroke="#e2ddd5"/>
 <text x="644" y="514" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >A clinic platform for patient care: admin, clinician and patient</text>
 <text x="644" y="534" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >roles, appointment booking and billing dashboard.</text>
+</g>
 </svg>

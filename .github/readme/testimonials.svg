@@ -1,47 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img">
-<rect width="1200" height="520" fill="#fcfaf1"/>
-<text x="60" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >WHAT BUILDERS SAY</text>
-<text x="60" y="122" font-family="Georgia, 'Times New Roman', Times, serif" font-size="42" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="-0.5" >Build with less guesswork.</text>
-<rect x="880" y="82" width="260" height="56" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
-<text x="902" y="120" font-family="Georgia, 'Times New Roman', Times, serif" font-size="30" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >4.6</text>
-<text x="952" y="120" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >/ 5</text>
-<text x="1120" y="116" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#110c09" font-weight="700" text-anchor="end" letter-spacing="0" >G2</text>
-<path transform="translate(1000 102) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
-<path transform="translate(1014 102) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
-<path transform="translate(1028 102) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
-<path transform="translate(1042 102) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
-<path transform="translate(1056 102) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
-<rect x="60" y="180" width="346" height="300" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
-<text x="84" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2" >01</text>
-<text x="82" y="272" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#7fdddd" font-weight="400" text-anchor="start" letter-spacing="0" >“</text>
-<text x="84" y="296" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >It finally builds the system, not just</text>
-<text x="84" y="320" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >screens. Seeing the whole product as a</text>
-<text x="84" y="344" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >connected map changed how we ship. We</text>
-<text x="84" y="368" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >stopped guessing about edge cases.</text>
-<circle cx="100" cy="432" r="16" fill="#f4f0e5" stroke="#e2ddd5"/>
-<text x="100" y="437" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="600" text-anchor="middle" letter-spacing="0" >A</text>
-<text x="126" y="428" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="600" text-anchor="start" letter-spacing="0" >Angel Bacareza</text>
-<text x="126" y="446" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Product Manager at Fronted · Global</text>
-<rect x="427" y="180" width="346" height="300" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
-<text x="451" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2" >02</text>
-<text x="449" y="272" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#7fdddd" font-weight="400" text-anchor="start" letter-spacing="0" >“</text>
-<text x="451" y="296" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >We could talk through the product with</text>
-<text x="451" y="320" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >the whole team before anyone opened a</text>
-<text x="451" y="344" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >code editor. The missing paths became</text>
-<text x="451" y="368" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >obvious much earlier.</text>
-<circle cx="467" cy="432" r="16" fill="#f4f0e5" stroke="#e2ddd5"/>
-<text x="467" y="437" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="600" text-anchor="middle" letter-spacing="0" >T</text>
-<text x="493" y="428" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="600" text-anchor="start" letter-spacing="0" >Tiaan Alberts</text>
-<text x="493" y="446" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Chartered Quantity Surveyor at Turner &amp;</text>
-<text x="493" y="461" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Townsend alinea · United Kingdom</text>
-<rect x="794" y="180" width="346" height="300" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
-<text x="818" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2" >03</text>
-<text x="816" y="272" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#7fdddd" font-weight="400" text-anchor="start" letter-spacing="0" >“</text>
-<text x="818" y="296" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Jbox turns app ideas into a fast MVP</text>
-<text x="818" y="320" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >prototype on the first try.</text>
-<circle cx="834" cy="432" r="16" fill="#f4f0e5" stroke="#e2ddd5"/>
-<text x="834" y="437" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="600" text-anchor="middle" letter-spacing="0" >A</text>
-<text x="860" y="428" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="600" text-anchor="start" letter-spacing="0" >Asbjørn Rørvik</text>
-<text x="860" y="446" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Full Stack Developer · CTO / Co-Founder at</text>
-<text x="860" y="461" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Supportify · Norway</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img">
+<rect width="1200" height="540" fill="#fcfaf1"/>
+<text x="60" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2.4" >WHAT BUILDERS SAY</text>
+<text x="60" y="132" font-family="Georgia, 'Times New Roman', Times, serif" font-size="42" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="-0.5" >Build with less guesswork.</text>
+<rect x="880" y="92" width="260" height="56" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="902" y="130" font-family="Georgia, 'Times New Roman', Times, serif" font-size="30" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >4.6</text>
+<text x="952" y="130" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >/ 5</text>
+<text x="1120" y="126" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#110c09" font-weight="700" text-anchor="end" letter-spacing="0" >G2</text>
+<path transform="translate(1000 112) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
+<path transform="translate(1014 112) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
+<path transform="translate(1028 112) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
+<path transform="translate(1042 112) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
+<path transform="translate(1056 112) scale(0.5)" d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.3l7-.8z" fill="#7fdddd"/>
+<rect x="60" y="190" width="346" height="300" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="84" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2" >01</text>
+<text x="82" y="282" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#7fdddd" font-weight="400" text-anchor="start" letter-spacing="0" >“</text>
+<text x="84" y="306" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >It finally builds the system, not just</text>
+<text x="84" y="330" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >screens. Seeing the whole product as a</text>
+<text x="84" y="354" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >connected map changed how we ship. We</text>
+<text x="84" y="378" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >stopped guessing about edge cases.</text>
+<circle cx="100" cy="442" r="16" fill="#f4f0e5" stroke="#e2ddd5"/>
+<text x="100" y="447" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="600" text-anchor="middle" letter-spacing="0" >A</text>
+<text x="126" y="438" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="600" text-anchor="start" letter-spacing="0" >Angel Bacareza</text>
+<text x="126" y="456" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Product Manager at Fronted · Global</text>
+<rect x="427" y="190" width="346" height="300" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="451" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2" >02</text>
+<text x="449" y="282" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#7fdddd" font-weight="400" text-anchor="start" letter-spacing="0" >“</text>
+<text x="451" y="306" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >We could talk through the product with</text>
+<text x="451" y="330" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >the whole team before anyone opened a</text>
+<text x="451" y="354" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >code editor. The missing paths became</text>
+<text x="451" y="378" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >obvious much earlier.</text>
+<circle cx="467" cy="442" r="16" fill="#f4f0e5" stroke="#e2ddd5"/>
+<text x="467" y="447" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="600" text-anchor="middle" letter-spacing="0" >T</text>
+<text x="493" y="438" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="600" text-anchor="start" letter-spacing="0" >Tiaan Alberts</text>
+<text x="493" y="456" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Chartered Quantity Surveyor at Turner &amp;</text>
+<text x="493" y="471" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Townsend alinea · United Kingdom</text>
+<rect x="794" y="190" width="346" height="300" fill="#ffffff" stroke="#e2ddd5" stroke-width="1" />
+<text x="818" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5a544e" font-weight="500" text-anchor="start" letter-spacing="2" >03</text>
+<text x="816" y="282" font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" fill="#7fdddd" font-weight="400" text-anchor="start" letter-spacing="0" >“</text>
+<text x="818" y="306" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >Jbox turns app ideas into a fast MVP</text>
+<text x="818" y="330" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" fill="#110c09" font-weight="400" text-anchor="start" letter-spacing="0" >prototype on the first try.</text>
+<circle cx="834" cy="442" r="16" fill="#f4f0e5" stroke="#e2ddd5"/>
+<text x="834" y="447" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#110c09" font-weight="600" text-anchor="middle" letter-spacing="0" >A</text>
+<text x="860" y="438" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#110c09" font-weight="600" text-anchor="start" letter-spacing="0" >Asbjørn Rørvik</text>
+<text x="860" y="456" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Full Stack Developer · CTO / Co-Founder at</text>
+<text x="860" y="471" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#5a544e" font-weight="400" text-anchor="start" letter-spacing="0" >Supportify · Norway</text>
 </svg>
